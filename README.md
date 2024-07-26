@@ -1,7 +1,26 @@
+### DEV EXPRESS V1 XC2024
+**Web server**
+
+- Using this software you can locally host your website created with PHP or HTML. 
+- This software will find apache2, MySQL, php and phpmyadmin. 
+- Dev Express comes with its browser, which can be phpMyAdmin or localhost browsers at a button.
+- It portable web server For which it can be run and killed from different places. It can be copied and pasted into other folders. 
+- It is also very easy to install. 
+- It can be used instead of any web server. 
+
+
+**Install Dev Express v1 XC2024.**
+  - The setup file needs to be run. 
+  - Click next. 
+  - You have to select the path of installation
+  - Then select everyone and click on Next
+  - Next install Dev Express
+   
+
 **First open**
 
 -The first open will take a while. 1 mint
--If you have software named _[RMS](shahedtech-ts-dev.netlify.app)_ So finish the installation of the software with yes and Then finish the installation of the software with yes and if not then finish with no. Not then finish with no. 
+-If you have a software named _[RMS](shahedtech-ts-dev.netlify.app)_ So finish the installation of the software with yes and Then finish the installation of the software with yes and if not then finish with no. Not then finish with no. 
 
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/0d1145ee-2ff4-4886-ad13-a6b7e492b9a4)
